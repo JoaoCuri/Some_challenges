@@ -4,6 +4,7 @@ window=Tk()
 
 window.title("Mile to Km converter")
 window.minsize(width=300,height=50)
+window.config(bg="#FDFEFE")
 
 
 input=Entry(width=14)
